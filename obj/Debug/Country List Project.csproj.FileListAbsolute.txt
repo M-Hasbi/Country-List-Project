@@ -80,6 +80,5 @@ C:\Users\CEM\source\repos\Country List Project\bin\Antlr3.Runtime.pdb
 C:\Users\CEM\source\repos\Country List Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.csproj.AssemblyReference.cache
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.csproj.CoreCompileInputs.cache
-C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.csproj.CopyComplete
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.dll
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.pdb
