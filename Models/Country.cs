@@ -7,10 +7,8 @@ namespace Country_List_Project.Models
 {
     public class Country
     {
-        public string code { get; set; } = "";
+        public List<string> countryCodes { get; set; } = new List<string>(10);
 
-        public string destination { get; set; } = "";
-
-        public string list { get; set; } = "";
+       
     }
 }
