@@ -12,7 +12,7 @@ namespace Country_List_Project.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "CAN", "USA", "MEX", "BLZ", "GTM", "SLV", "HND", "NIC", "CRI", "PAN", };
+            return new string[] { "" };
         }
 
         // GET api/values/5
