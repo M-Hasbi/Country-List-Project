@@ -16,8 +16,8 @@ This will be an application that receives a three-letter code for a North Americ
 ![image](https://user-images.githubusercontent.com/73940626/139483652-80109c31-ddaa-4852-88f2-c3e0673f8e26.png)
 
 METADATA:
-I used Azure App Service in order to deploy and publish my app
 
+I used Azure App Service in order to deploy and publish my app
 For Home page please use the following link: https://countrylistapp.azurewebsites.net
 To Get all list of country use "/countries": https://countrylistapp.azurewebsites.net/countries 
 To Get destination country and its borders use "/PAN": https://countrylistapp.azurewebsites.net/PAN 
