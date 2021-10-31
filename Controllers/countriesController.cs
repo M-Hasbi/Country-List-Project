@@ -54,7 +54,7 @@ namespace Country_List_Project.Controllers
         [HttpGet]
         public DestinationCountry Get(string code)
         {
-            return destinationCountries.Where(x => x.destination==code).FirstOrDefault();
+            return destinationCountries.Where(x => x.destination==code.ToUpper()).FirstOrDefault();
             
         }
 
