@@ -483,7 +483,7 @@
         </member>
         <member name="T:Country_List_Project.Controllers.CountriesController">
             <summary>
-            This is where you can find all the travel path information which our trucks able to travelthrough. 
+            This is where you can find all the travel path information which our trucks are able to travelthrough. 
             </summary>
         </member>
         <member name="M:Country_List_Project.Controllers.CountriesController.#ctor">
@@ -493,7 +493,7 @@
         </member>
         <member name="M:Country_List_Project.Controllers.CountriesController.Get">
             <summary>
-            Gets a list of the countries which our trucks able to travelthrough 
+            Gets a list of the countries which our trucks are able to travel through 
             </summary>
             <returns>A list of countries</returns>
         </member>
@@ -506,7 +506,7 @@
         </member>
         <member name="T:Country_List_Project.Models.Country">
             <summary>
-            The list of the countries that our trucks able to travel through
+            The list of 3 letters codes of the countries that our trucks are able to travel through
             </summary>
         </member>
         <member name="P:Country_List_Project.Models.Country.countryCodes">
