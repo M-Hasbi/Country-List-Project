@@ -21,3 +21,5 @@ I used Azure App Service in order to deploy and publish my app
 For Home page please use the following link: https://countrylistapp.azurewebsites.net
 To Get all list of country use "/countries": https://countrylistapp.azurewebsites.net/countries 
 To Get destination country and its borders use "/PAN": https://countrylistapp.azurewebsites.net/PAN 
+
+Note: Recommend using with POSTMAN(https://web.postman.co/)
