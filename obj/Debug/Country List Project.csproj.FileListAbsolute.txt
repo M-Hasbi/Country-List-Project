@@ -82,3 +82,4 @@ C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.cs
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.csproj.CoreCompileInputs.cache
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.dll
 C:\Users\CEM\source\repos\Country List Project\obj\Debug\Country List Project.pdb
+C:\Users\CEM\source\repos\Country List Project\bin\Documentation.xml
